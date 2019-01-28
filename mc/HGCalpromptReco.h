@@ -1,8 +1,5 @@
 //////////////////////////////////////////////////////////
-// This class has been automatically generated on
-// Wed Nov 14 03:05:56 2018 by ROOT version 6.12/07
-// from TTree hits/HGC rechits
-// found on file: ntuple_sim_config22_pdgID11_beamMomentum100.0_listFTFP_BERT_EMM.root
+//Code originally written by Debabrata Bhowmik
 //////////////////////////////////////////////////////////
 
 #ifndef HGCalpromptReco_h
