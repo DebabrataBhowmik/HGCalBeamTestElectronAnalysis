@@ -5,8 +5,8 @@
 
 void DataMC(){
   
-  TFile *data = new TFile("../../../data/Oct2018/v8/data_v8_1MIP.root");
-  TFile *mc = new TFile("../../../mc/Oct2018/v1/mc_v1_1MIP.root");
+  TFile *data = new TFile("../data/data_v8_1MIP.root");
+  TFile *mc = new TFile("../mc/mc_v1_1MIP.root");
 
   const int max_Layer = 28;
 
