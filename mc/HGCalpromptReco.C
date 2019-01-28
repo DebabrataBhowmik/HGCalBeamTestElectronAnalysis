@@ -47,7 +47,7 @@ void HGCalpromptReco::Loop()
    vector<TH2F*> vecE1iuiv_currLayer;
    vector<TH2F*> vecE1xy_currLayer;
 
-   TFile * myFile=new TFile("mc_v2_1MIP.root","RECREATE");
+   TFile * myFile=new TFile("mc_v1_1MIP.root","RECREATE");
    //TFile * myFile=new TFile("filexy.root","NEW");
    const int max_Layer = 28;
 
