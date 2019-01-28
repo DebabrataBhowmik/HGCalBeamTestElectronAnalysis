@@ -9,4 +9,4 @@ Go to mc directory
 
 Again analyze the mc and then finally
 
-Go to data-mc directory to compare the results
+Go to data-mc matching directory to compare the results
