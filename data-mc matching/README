@@ -1,1 +1,3 @@
+Check if the input data and mc files are the ones you produced in the previous steps. Thenn run:
 
+root -l DataMC.C
