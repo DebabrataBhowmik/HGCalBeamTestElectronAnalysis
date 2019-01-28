@@ -1,1 +1,9 @@
-Readme
+Check HGCalpromptReco.h if the input file is the one you want to analyze. If it's fine run:
+
+root -l
+
+.L HGCalpromptReco.C
+
+HGCalpromptReco a
+
+a.Loop()
