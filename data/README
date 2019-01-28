@@ -1,1 +1,17 @@
 Readme
+
+For any version of data, make txt file containing all the nTuples with locations(just by doing ls -ltrh) like "ntuples_v8.txt"
+
+open MakeClassProducer.C and check the txt file name is correct
+
+root -l MakeClassProducer.C 
+
+(This is to make a chain of nTuples of one type of particle with particular beam energy, also produces a txt file to check which nTuples you are going to analyze ) 
+
+ root -l
+ 
+.L HGCalpromptReco_v8.C
+
+something_v8 a
+
+a.Loop()
